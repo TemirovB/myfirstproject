@@ -1,0 +1,12 @@
+/Users/bakhtiartemirov/Projects/firstProject/firstProject/bin/Debug/firstProject.exe
+/Users/bakhtiartemirov/Projects/firstProject/firstProject/bin/Debug/firstProject.pdb
+/Users/bakhtiartemirov/Projects/firstProject/firstProject/obj/x86/Debug/firstProject.csprojAssemblyReference.cache
+/Users/bakhtiartemirov/Projects/firstProject/firstProject/obj/x86/Debug/firstProject.csproj.CoreCompileInputs.cache
+/Users/bakhtiartemirov/Projects/firstProject/firstProject/obj/x86/Debug/firstProject.exe
+/Users/bakhtiartemirov/Projects/firstProject/firstProject/obj/x86/Debug/firstProject.pdb
+/Users/bakhtiartemirov/VS projects/firstProject/firstProject/bin/Debug/firstProject.exe
+/Users/bakhtiartemirov/VS projects/firstProject/firstProject/bin/Debug/firstProject.pdb
+/Users/bakhtiartemirov/VS projects/firstProject/firstProject/obj/x86/Debug/firstProject.csprojAssemblyReference.cache
+/Users/bakhtiartemirov/VS projects/firstProject/firstProject/obj/x86/Debug/firstProject.csproj.CoreCompileInputs.cache
+/Users/bakhtiartemirov/VS projects/firstProject/firstProject/obj/x86/Debug/firstProject.exe
+/Users/bakhtiartemirov/VS projects/firstProject/firstProject/obj/x86/Debug/firstProject.pdb
